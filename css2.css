@@ -420,7 +420,7 @@ div{
         margin-left: 0px;
        border-radius: 50%;
        margin-top: 0%;
-       margin-right: 5cm;
+       margin-right: 4cm;
        background-color: rgb(223, 223, 68);
     }
     25%{
@@ -431,7 +431,7 @@ div{
         margin-right: 0px;
         border-radius: 50%;
         margin-top: 0%;
-        margin-left: 5cm;
+        margin-left: 4cm;
         background-color: rgb(206, 126, 112);
         
     }
@@ -443,7 +443,7 @@ div{
     100%{
         margin-left: 0%;
         border-radius: 50%;
-        margin-right: 5cm;
+        margin-right: 4cm;
         margin-top: 0%;
         background-color: rgb(223, 223, 67);
     }
